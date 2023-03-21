@@ -19,13 +19,19 @@ We have created a Wearable belt ,allowing for real-time monitoring of the patien
 ![image](https://user-images.githubusercontent.com/113662146/226710315-61535777-8ae6-4909-9213-2c5832768240.png)
 
 
-RASPBERRY PI
-INTEL ONEAPI TOOLKITS(Math kernel library,AI analytics toolkit,and Basic Python toolkit)
-Math kernel library- Mathematical Calculations for average values of the sensor
-AI analytics toolkit- For Data Analysis and Finding the Accurate rate of movements and remedies
+#### RASPBERRY PI
+#### INTEL ONEAPI TOOLKITS(Math kernel library,AI analytics toolkit,and Basic Python toolkit)
+#### Math kernel library- Mathematical Calculations for average values of the sensor
+#### AI analytics toolkit- For Data Analysis and Finding the Accurate rate of movements and remedies
 
-//Towards Advanced Level we have to use-Intel® oneAPI Deep Neural Networks Library & Intel® oneAPI Collective Communications Library
+##### //Towards Advanced Level we have to use-Intel® oneAPI Deep Neural Networks Library & Intel® oneAPI Collective Communications Library
 
 ![image](https://user-images.githubusercontent.com/113662146/226713324-d1f659fa-69f3-4256-b6e3-da6d1cbad99a.png)
+
+#### The solution for the problem has been found and we have made teh protoype,Now if we take it to advanced stages the application will be numerous
+![image](https://user-images.githubusercontent.com/113662146/226716356-f075e7fc-b801-4608-8f60-b41ea8ed434d.png)
+
+#### The statistics representing the need for the project in a picture
+![image](https://user-images.githubusercontent.com/113662146/226716649-837d2930-4768-4095-b1c6-9bbff09613ae.png)
 
 
