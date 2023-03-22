@@ -157,9 +157,7 @@ output[output_name] = InferenceEngine::make_shared_blob
 const char *xml_file = env->GetStringUTFChars(xmlFile, nullptr);
 const char *bin_file = env->GetStringUTFChars(binFile, nullptr);
 const char *messages_xml = env->GetStringUTFChars(messagesXml, nullptr);
- ```
-####App final output Screens
-
+  ```
 
 
 ## Conclusion
@@ -173,7 +171,12 @@ const char *messages_xml = env->GetStringUTFChars(messagesXml, nullptr);
 
 ![sample 1 iot](https://user-images.githubusercontent.com/113662146/226892845-5def573f-55d5-4b9c-9310-a3783314b8b5.jpg)
 ![sample iot 2](https://user-images.githubusercontent.com/113662146/226892817-9cbad78b-10ff-4964-bd87-98f2cc4a6cbf.jpg)
-
+![WhatsApp Image 2023-03-22 at 6 02 49 PM](https://user-images.githubusercontent.com/113662146/226906434-69ca1b49-dfe8-47b9-974b-2a1545ebb17a.jpeg)
+ 
+ #hardware
+![WhatsApp Image 2023-03-22 at 5 57 14 PM](https://user-images.githubusercontent.com/113662146/226906458-35311bae-9e23-43f1-b567-67bf13afe47a.jpeg)
+![20230322_152229](https://user-images.githubusercontent.com/113662146/226906510-b60d1e32-2d84-4228-8f4d-5b95566926ed.jpg)
+![WhatsApp Image 2023-03-22 at 5 59 38 PM](https://user-images.githubusercontent.com/113662146/226906545-e9aae111-2739-4fbd-930c-43114661b7d0.jpeg)
 
 
 https://user-images.githubusercontent.com/113662146/226891444-2b7953b9-5e77-49cf-91c9-787524cf003f.mp4
