@@ -2,6 +2,14 @@
 # Intel OneApi Hackathon- Team "DEBUG THUGS"-Smart Belt For Spinal Diseases
 #### The Intel OneAPI hackathon is a programming contest that tests programmers' ability to design original solutions utilizing the OneAPI platform. OneAPI is a unified programming style that enables programmers to create code that effectively executes on many hardware platforms, such as CPUs, GPUs, and FPGAs.The OneAPI platform, which offers tools, libraries, and APIs for creating high-performance, cross-architecture apps, will be made available to hackathon participants. They will get the chance to work on a variety of projects, from developing new apps from scratch to optimizing already existing ones.The hackathon may be available to individuals or teams and is often run by Intel or in partnership with a partner organization. Typically, the participants are given a certain period of time—a weekend or a week, for example—to create their answers and submit them for evaluation.
 
+### Team Debug Thugs
+
+#### Anvin Shaiju
+#### Jordan MC
+#### Manu p Jose
+#### Ashwini
+#### Shaik Nabeel
+
 ![image](https://user-images.githubusercontent.com/113662146/226708692-e0bafd9b-0712-4c02-a875-4214c27ca899.png)
 ### TOPIC: SmartBelt With Android Access(Intel One-API Tools) For LUMBAR SPONDYLOSIS & all common back and spinal problems
 
@@ -84,6 +92,11 @@ angle = atan2(sensor_reading, 1000)
 angle_deg = math.degrees(angle)
 ```
 ### use Of AI analytical Tool.
+
+import xml.etree.ElementTree as ET
+tree = ET.parse('angle.xml')
+root = tree.getroot()
+angle_value = float
 #### Import  Required libraries.
 
 ```
@@ -174,8 +187,13 @@ const char *messages_xml = env->GetStringUTFChars(messagesXml, nullptr);
 ![20230322_152229](https://user-images.githubusercontent.com/113662146/226906510-b60d1e32-2d84-4228-8f4d-5b95566926ed.jpg)
 ![WhatsApp Image 2023-03-22 at 5 59 38 PM](https://user-images.githubusercontent.com/113662146/226906545-e9aae111-2739-4fbd-930c-43114661b7d0.jpeg)
 
-
+#### Promo Video:
 https://user-images.githubusercontent.com/113662146/226891444-2b7953b9-5e77-49cf-91c9-787524cf003f.mp4
+#### OutPut Video
+
+https://user-images.githubusercontent.com/113662146/226954722-c03ed411-ae9f-40d9-b21f-5ad26446a6bf.mp4
+
+
 
 
 
