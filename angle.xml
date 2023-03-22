@@ -1,0 +1,2566 @@
+<angle degrees="180">
+    <doctor>
+      <message>your bending is perfectly normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message></message>
+    </increase>
+  </angle>
+<angle degrees="179">
+    <doctor>
+      <message>your bending is perfectly normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Practice good posture throughout the day</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (20 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="178">
+    <doctor>
+      <message>your bending is perfectly normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Take regular breaks from sitting and standing to stretch</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (19 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="177">
+    <doctor>
+      <message>your bending is perfectly normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Use a standing desk to alternate between sitting and standing</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (18 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="176">
+    <doctor>
+      <message>your bending is perfectly normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Avoid lifting heavy objects</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (17 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="175">
+    <doctor>
+      <message>your bending is perfectly normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Keep a healthy weight to reduce pressure on your spine</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (16 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="174">
+    <doctor>
+      <message>your bending is normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Stay active with low-impact exercises like swimming or yoga</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (15 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="173">
+    <doctor>
+      <message>your bending is normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Strengthen your core muscles to support your spine</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (14 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="172">
+    <doctor>
+      <message>your bending is normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Avoid high-impact sports and activities that can exacerbate your condition</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (13 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="171">
+    <doctor>
+      <message>your bending is normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Try a massage to release tension in your back muscles</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (12 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="170">
+    <doctor>
+      <message>your bending is  normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Practice deep breathing exercises to reduce stress</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (11 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="169">
+    <doctor>
+      <message>your bending is   normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Get regular massages to release tension in your back muscles</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (10 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="168">
+    <doctor>
+      <message>your bending is normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Stretch daily to maintain flexibility</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (9 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="167">
+    <doctor>
+      <message>your bending is normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Use pillows to support your neck and back when sleeping</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (8 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="166">
+    <doctor>
+      <message>your bending is normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Avoid high-impact exercises</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (7 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="165">
+    <doctor>
+      <message>your bending is normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Don't twist your back when lifting.</message>
+    </warning>
+    <increase>
+      <message>Try to stop high bending beacuse your condition can get severe(6 degrees)</message>
+    </increase>
+  </angle>
+
+<angle degrees="164">
+    <doctor>
+      <message>your bending is Regular</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (5 degrees)</message>
+    </increase>
+  </angle>
+
+<angle degrees="163">
+    <doctor>
+      <message>your bending is Regular</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Practice swimming for low-impact exercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (4 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="162">
+    <doctor>
+      <message>your bending is Regular</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Practice qigong for balance and flexibility</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (3 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="161">
+    <doctor>
+      <message>your bending is Regular</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Use meditation to reduce stress</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (2 degrees)</message>
+    </increase>
+  </angle>
+<angle degrees="160">
+    <doctor>
+      <message>your bending is Regular</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise and also Stay hydrated</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="159">
+    <doctor>
+      <message>your bending is Regularl</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Use assistive devices when needed, such as a cane or walker</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="158">
+    <doctor>
+      <message>your bending is Regular</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Stay active with low-impact exercises</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="157">
+    <doctor>
+      <message>your bending is Regular</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="156">
+    <doctor>
+      <message>your bending is Regular</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Use a backpack instead of a shoulder bag</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="155">
+    <doctor>
+      <message>your bending is Regular</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Practice breathing exercises to reduce stress</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="154">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>Practice good posture to avoid straining your spine</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="153">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="152">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="151">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="150">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="149">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="148">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="147">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="146">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="145">
+    <doctor>
+      <message>your bending is Average normal </message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="144">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="143">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="142">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="141">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="140">
+    <doctor>
+      <message>your bending is Average normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="139">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="138">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="137">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="136">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="135">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="134">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="133">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="132">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="131">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="130">
+    <doctor>
+      <message>your bending is Acceptable</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="129">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="128">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="127">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="126">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="125">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="124">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="123">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="122">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="121">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="120">
+    <doctor>
+      <message>your bending is Moderate</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="119">
+    <doctor>
+      <message>your bending is below normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="118">
+    <doctor>
+      <message>your bending is below normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="117">
+    <doctor>
+      <message>your bending is below normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="116">
+    <doctor>
+      <message>your bending is below  normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="115">
+    <doctor>
+      <message>your bending is below normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="114">
+    <doctor>
+      <message>your bending is below normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="113">
+    <doctor>
+      <message>your bending is below  normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="112">
+    <doctor>
+      <message>your bending is below normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="111">
+    <doctor>
+      <message>your bending is below normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="110">
+    <doctor>
+      <message>your bending is below normal</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="109">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="108">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="107">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="106">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="105">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="104">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="103">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="102">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="101">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="100">
+    <doctor>
+      <message>Your bend is unusual and could be a cause for concern.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="99">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="98">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="97">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="96">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="95">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="94">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="93">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="92">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="91">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="90">
+    <doctor>
+      <message>Your bend is peculiar and requires further examination</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="89">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="88">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="87">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="86">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="85">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="84">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="83">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="82">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="81">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="80">
+    <doctor>
+      <message>Your bend is odd and may need treatment to correct.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="79">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="78">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="77">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="76">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="75">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="74">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="73">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="72">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="71">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="70">
+    <doctor>
+      <message>Your bend is eccentric and could be a sign of an underlying issue</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="69">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="68">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="67">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="66">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="65">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="64">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="63">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="62">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="61">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="60">
+    <doctor>
+      <message>Your bend is aberrant and should be evaluated by a specialist</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="59">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="58">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="57">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="56">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="55">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="54">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="53">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="52">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="51">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="50">
+    <doctor>
+      <message>your bending is too low. please maintain the correct posture</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="49">
+    <doctor>
+      <message>Your bend is anomalous and may indicate an underlying health condition</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="48">
+    <doctor>
+      <message>Your bend is anomalous and may indicate an underlying health condition</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="47">
+    <doctor>
+      <message>Your bend is anomalous and may indicate an underlying health condition</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+<angle degrees="46">
+    <doctor>
+      <message>Your bend is anomalous and may indicate an underlying health condition</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="45">
+    <doctor>
+      <message>Your bend is anomalous and may indicate an underlying health condition</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="44">
+    <doctor>
+      <message>Your bend is anomalous and may indicate an underlying health condition</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="43">
+    <doctor>
+      <message>Your bend is anomalous and may indicate an underlying health condition</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="42">
+    <doctor>
+      <message>Your bend is anomalous and may indicate an underlying health condition</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="41">
+    <doctor>
+      <message>Your bend is anomalous and may indicate an underlying health condition</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="40">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="39">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="38">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="37">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="36">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="35">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="34">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="33">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="32">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="31">
+    <doctor>
+      <message>Your bend is atypical and may require medical intervention</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="30">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="29">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="28">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="27">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="26">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="25">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="24">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="23">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="22">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="21">
+    <doctor>
+      <message>Your bend is irregular and may indicate a more serious problem.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="20">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="19">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="18">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="17">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="16">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="15">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="14">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="13">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="12">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="11">
+    <doctor>
+      <message>Your bend is deviant and needs to be addressed as soon as possible.</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="10">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="9">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="8">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="7">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="6">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="5">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="4">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="3">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="2">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional</message>
+    </doctor>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+<angle degrees="1">
+    <doctor>
+      <message>Your bend is critical and requires attention from a medical professional. </message>
+    <remedy>
+      <message>Continue the routine that you have been doing.</message>
+    </remedy>
+    <warning>
+      <message>try small strengthening excercise</message>
+    </warning>
+    <increase>
+      <message>The angle can be a little more bend,only under extreme condition (1 degree)</message>
+    </increase>
+  </angle>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
