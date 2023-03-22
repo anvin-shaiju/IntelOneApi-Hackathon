@@ -35,3 +35,37 @@ We have created a Wearable belt ,allowing for real-time monitoring of the patien
 ![image](https://user-images.githubusercontent.com/113662146/226716649-837d2930-4768-4095-b1c6-9bbff09613ae.png)
 
 
+## Steps to Follow:
+
+#### Connect flex Sensor to Raspberry Pi Using an extension Board attached to raspberry Pi(With proper circuits) 
+ 
+#### Install Pyserial Library using the following command
+![image](https://user-images.githubusercontent.com/113662146/226814998-9476c6da-e1a9-47ea-bd54-fbddf19ba34c.png)
+
+#### Paste This code snippet(LOGIC) in the raspberry Pi environment that You are running
+Full code to be accessed in Github Repositry
+
+while True:
+    # Read analog value 
+    GPIO.output(18, GPIO.HIGH)
+    time.sleep(0.000002)
+    GPIO.output(18, GPIO.LOW)
+    while GPIO.input(24) == GPIO.LOW:
+        pass
+    start = time.time()
+    while GPIO.input(24) == GPIO.HIGH:
+        pass
+    end = time.time()
+    duration = end - start
+    analog = duration * 1000000 / 58.0
+    # Send  value  Android 
+    ser.write(str(analoge).encode('utf-8'))
+    
+    #### create a SPP on Android device.
+    Mac address
+    ![image](https://user-images.githubusercontent.com/113662146/226815983-6c3df99b-0bb9-4976-8c11-8dbe872c901a.png)
+    rfcomm0 SerialPort for communication
+
+
+#### Angle xml file link=https://github.com/anvin-shaiju/IntelOneApi-Hackathon/blob/1bff7d1c12a3eb6d769c49d3a0fb1220f21c529e/angle.xml
+
