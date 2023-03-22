@@ -1,15 +1,13 @@
 ### IntelOneApi-Hackathon
 # Intel OneApi Hackathon- Team "DEBUG THUGS"-Smart Belt For Spinal Diseases
+#### The Intel OneAPI hackathon is a programming contest that tests programmers' ability to design original solutions utilizing the OneAPI platform. OneAPI is a unified programming style that enables programmers to create code that effectively executes on many hardware platforms, such as CPUs, GPUs, and FPGAs.The OneAPI platform, which offers tools, libraries, and APIs for creating high-performance, cross-architecture apps, will be made available to hackathon participants. They will get the chance to work on a variety of projects, from developing new apps from scratch to optimizing already existing ones.The hackathon may be available to individuals or teams and is often run by Intel or in partnership with a partner organization. Typically, the participants are given a certain period of time—a weekend or a week, for example—to create their answers and submit them for evaluation.
 
 ![image](https://user-images.githubusercontent.com/113662146/226708692-e0bafd9b-0712-4c02-a875-4214c27ca899.png)
-
-
 ### TOPIC: SmartBelt With Android Access(Intel One-API Tools) For LUMBAR SPONDYLOSIS & all common back and spinal problems
 
 We have created a Wearable belt ,allowing for real-time monitoring of the patient's spinal activity and motions. An Android or iOS app will be used to gather, analyze, and send this data to the patient, the doctor, and any relevant family members. It displays details about the bend angle, strain, and pressure applied. provide specific stretching and exercise routines to improve and treat their ailment. By consistently keeping an eye on things and giving feedback, we can help stop the spine from suffering more harm while also promoting healing and recovery.If the patient has been dealing with significant pain and movement abnormalities, the devices implanted inside the belt can transfer vibrations or electric impulses to the spines. it functions as treatment.
 
 ![image](https://user-images.githubusercontent.com/113662146/226709926-1b960a3c-57e0-4e46-a350-11fb76b81f74.png)
-
 
 ### Technologies Used:
 
@@ -120,7 +118,6 @@ S, V, _ = svd(X_transformed, computeU=False)
 selected_message_index = np.argmax(V)
 ```
 
-
 #### Now to print the messages in android app.
 
 
@@ -158,7 +155,6 @@ const char *xml_file = env->GetStringUTFChars(xmlFile, nullptr);
 const char *bin_file = env->GetStringUTFChars(binFile, nullptr);
 const char *messages_xml = env->GetStringUTFChars(messagesXml, nullptr);
   ```
-
 
 ## Conclusion
 
